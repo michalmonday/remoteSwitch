@@ -22,7 +22,7 @@ Bluetooth controlled monitor power supply switch.
 **Wiring:**  
   
     
-![Wiring image](https://i.imgur.com/j8sO0h8.jpg)  
+![Wiring image](https://i.imgur.com/yv7KvKe.jpg)  
  
 **Pictures:**  
   
